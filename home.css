@@ -1,0 +1,74 @@
+
+html {
+	font-size:100%;
+}
+body {
+  width: 1920px;
+  height: 3058px;
+}.desktop {
+  box-sizing: border-box;
+  padding: 25px 410px 20px 410px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop .n-1-4iy {
+  margin: 0rem 0rem 1.7rem 0rem;
+  width: 985px;
+  height: 993px;
+  object-fit: cover;
+  vertical-align: top;
+    border-bottom: 10px #0bd solid;
+
+}
+.desktop .group-1 {
+  margin: 0rem 9.3rem 7.03rem 9.3rem;
+  width: 100rem
+  height: 15.6696rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px
+ 
+
+}
+.item {
+  width: 37.4rem;
+  height: 75px;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: "맑은 고딕";
+  background-color: #d9d9d9;
+  
+
+}
+.sub {
+  border-top: 5px #0bd solid;  
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  border-bottom: 5px #0bd solid;  
+}
+.desktop .question {
+  margin-top:10rem;
+  margin-bottom:10rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: "맑은 고딕";
+  white-space: nowrap;
+  border-top: 5px #0bd solid;
+    border-bottom: 5px #0bd solid;
+}
+.desktop .rectangle-2 {
+  width: 100rem;
+  height: 10rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
