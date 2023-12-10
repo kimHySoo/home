@@ -74,13 +74,14 @@ a {
 .rectangle {
   width: 192rem;
   height: 10rem;
-  background-color: #000000;
+  background-color: black;
   text-align: center;
   font-size: 3.6rem;
   font-weight: 400;
-  color: #ffffff;
+  
 }
 .rectangle p {
     margin-top: 20px;
     padding-top: 37px;
+    color: #ffffff;
 }
