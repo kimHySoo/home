@@ -67,9 +67,20 @@ body {
   border-top: 5px #0bd solid;
     border-bottom: 5px #0bd solid;
 }
-.desktop .rectangle-2 {
-  width: 100rem;
+a {
+    font-size: 3.6rem;
+  font-weight: 400;
+}
+.rectangle {
+  width: 192rem;
   height: 10rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
+  background-color: #000000;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  color: #ffffff;
+}
+.rectangle p {
+    margin-top: 20px;
+    padding-top: 37px;
 }
